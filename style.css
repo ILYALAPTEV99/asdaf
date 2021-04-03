@@ -101,5 +101,7 @@ h2 {
     margin-top: 10px;
 }
 
-.img.r{
+.img_r{
+    display:flex;
     width:100%
+}
